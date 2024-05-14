@@ -1,6 +1,7 @@
 
 const url = 'http://127.0.0.1:5500/' 
 
+
 const navElements = [
 
     {title: 'Home', link: `${url}../private_page/index.html`},
@@ -8,6 +9,7 @@ const navElements = [
     {title: 'Smartwatch', link: `${url}../private_page/smartwatch.html`},
     {title: 'Accesorios', link: `${url}../private_page/accesorios.html`}
 ]
+
 
 
 export const navbarComponent = `
@@ -32,8 +34,8 @@ export const navbarComponent = `
                 }                  
             </ul>            
             
-            <div class="container d-flex justify-content-end mx-auto">
-                 <a href="../public_page/login.html"><button class="btn btn-danger"><i class="bi bi-box-arrow-left"></i></button></a>
+            <div class="container d-flex justify-content-end mx-auto" id="navbarButton">
+                <button id="navbarRedirectButton" class="btn btn-danger"><i class="bi bi-box-arrow-left"></i></button>
             </div>
             
         </div>

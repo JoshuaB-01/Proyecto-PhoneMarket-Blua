@@ -2,6 +2,7 @@ const url = 'http://127.0.0.1:5500/'
 
 
 export const footerComponent = `
+
 <footer class="bg-secondary border-3 border-top border-dark">
         <div class="row row-cols-2 row-cols-md-2 g-2 my-auto mx-auto">          
             <div>
