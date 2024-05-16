@@ -1,10 +1,9 @@
-document.addEventListener("DOMContentLoaded", function() {
-   
-    const loginForm = document.querySelector('form');
-
+document.addEventListener('DOMContentLoaded', () => {
     
-    loginForm.addEventListener('submit', function(event) {
-        event.preventDefault();
+    const loginForm = document.getElementById('loginForm');
+
+        loginForm.addEventListener('submit', (event) => {
+        event.preventDefault(); 
         window.location.href = '../private_page/index.html';
     });
 });

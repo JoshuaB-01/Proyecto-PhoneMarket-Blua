@@ -3,41 +3,39 @@ const url = 'http://127.0.0.1:5500/'
 
 export const footerComponent = `
 
-<footer class="bg-secondary border-3 border-top border-dark">
-        <div class="row row-cols-2 row-cols-md-2 g-2 my-auto mx-auto">          
-            <div>
-                <h5 class="text-dark p-2 bg-light rounded text-center">Contacto:</h5>
-                <div>
-                    <nav>
-                        <ul class="mt-3 mx-5">
-                            <li>
-                                <div class="container-fluid d-flex align-items-center">
-                                    <i class="bi bi-whatsapp fs-4" style="color: #2bb61f;"></i>
-                                    <p class="m-0 mx-2">+54 9 3517147858</p>
-                                </div>
-                            </li>
-                            <li class="mt-2">
-                                <div class="container-fluid d-flex align-items-center">
-                                    <i class="bi bi-envelope-at-fill fs-4" style="color: #dbd943;"></i>
-                                    <p class="m-0 mx-2">phone-market@gmail.com</p>
-                                </div>
-                            </li>
-                        </ul>
-                        
-                    </nav>
-                </div>
+<footer class="bg-dark text-light py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h5 class="text-uppercase mb-4">Contacto:</h5>
+                <ul class="list-unstyled">
+                    <li class="mb-3">
+                        <i class="bi bi-whatsapp text-decoration-none text-warning me-2"></i>
+                        <span class="text-light">+54 9 3517147858</span>
+                    </li>
+                    <li>
+                        <i class="bi-envelope text-decoration-none text-warning me-2"></i>
+                        <span class="text-light">phone-market@gmail.com</span>
+                    </li>
+                </ul>
             </div>
-            <div>
-                <h5 class="text-dark p-2 bg-light rounded text-center">Seguinos en:</h5>
-                <div class="container-fluid d-flex justify-content-center mt-4">
-                <!-- Los iconos son ilustrativos, no dirigen a ningun link -->
-                    <i class="bi bi-instagram fs-2 mx-5" style="color: #770865;"></i>
-                    <i class="bi bi-facebook fs-2 mx-5" style="color: #3e1cff;"></i>
-                    <i class="bi bi-twitter-x fs-2 mx-5"></i>
-                </div>
+            <div class="col-md-6">
+                <h5 class="text-uppercase mb-4">Seguinos en:</h5>
+                <ul class="list-unstyled d-flex">
+                    <li class="me-3">
+                            <i class="bi bi-instagram fs-4 text-decoration-none text-warning"></i>
+                    </li>
+                    <li class="me-3">                        
+                            <i class="bi bi-facebook fs-4 text-decoration-none text-warning"></i>                        
+                    </li>
+                    <li >                        
+                        <i class="bi bi-twitter fs-4 text-decoration-none text-warning"></i>                        
+                    </li>
+                </ul>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>
 `
 
 
