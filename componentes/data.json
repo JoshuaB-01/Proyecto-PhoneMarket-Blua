@@ -1,0 +1,162 @@
+[
+    {
+      "categoria": "celulares",
+      "productos": [
+        {
+          "imagen": "../../assets/celulares/motorola_g30.webp",
+          "titulo": "MOTOROLA G30",
+          "descripcion": "Este modelo tiene 4 cámaras traseras de 64Mpx/8Mpx/2Mpx/2Mpx. Cámara delantera de 13Mpx. Procesador Snapdragon 662 Octa-Core de 2GHz con 4GB de RAM. Batería de 5000mAh.",
+          "precio": "420.000"
+        },
+        {
+            "imagen": "../../assets/celulares/Iphone_14_pro.webp",
+            "titulo": "IPHONE 14 PRO",
+            "descripcion": "Pantalla Super Retina XDR de 6,1 pulgadas. Hasta 23 horas de reproducción de video. Resolución de pantalla de 2556 x 1179 pixeles a 460 ppi. Alto: 145,5mm-Ancho: 71,5 mm-Grosor 7,85 mm-206 g. Hasta un 50% de carga en 30 minutos.",
+            "precio": "900.000"
+        },
+        {
+            "imagen": "../../assets/celulares/iphone_15_pro_max.webp",
+            "titulo": "IPHONE 15 PRO MAX",
+            "descripcion": "La pantalla del iPhone 15 Pro tiene esquinas redondeadas que siguen el elegante diseño curvo del teléfono, y las esquinas se encuentran dentro de un rectángulo estándar. Si se mide en forma de rectángulo estándar, la pantalla tiene 6.12 pulgadas en diagonal (el área real de visualización es menor).",
+            "precio": "1.200.000"
+        },
+        {
+            "imagen": "../../assets/celulares/motorola_edge_40_pro.webp",
+            "titulo": "MOTOROLA EDGE 40 PRO",
+            "descripcion": "El Edge 40 Pro, uno de los últimos modelos Motorola, porta en su corazón al Qualcomm Snapdragon 8 Gen 2, el más avanzado hasta el momento, el campeón de los procesadores en Android y una pieza de ingeniería tan eficiente que te dejará sin palabras. Esta potencia sin igual te permitirá explorar, trabajar y jugar sin límites, transformando tu teléfono en un verdadero centro de comando.",
+            "precio": "660.000"
+        },
+        {
+            "imagen": "../../assets/celulares/redmi-note-12pro-5g-.webp",
+            "titulo": "XIAOMI REDMI NOTE 12 PRO",
+            "descripcion": "El nuevo Redmi Note 12 Pro+ 5G hace que la tecnología flagship sea aún más accesible, abriendo las posibilidades a todo lo que tiene para ofrecer. Un sistema de cámara lleno de vida y líder mundial en resolución. El sistema de cámara más potente en un Redmi Note, cuenta con un sensor de ultra alta resolución de 200MP con lente OIS y 7P. Combinado con algoritmos de última generación y más, esta cámara le brindara el máximo poder para crear.",
+            "precio": "580.000"
+          },
+          {
+              "imagen": "../../assets/celulares/samsung_a54.webp",
+              "titulo": "SAMSUNG A54",
+              "descripcion": "Tamaño 163,1 mm - 158,9 mm. Resolución (Pantalla principal) 1080 x 2340 (FHD+). Tecnología (Pantalla principal) Super AMOLED. Número de colores (Pantalla principal) 16M. Frecuencia de actualización máxima (pantalla principal) 120 Hz.",
+              "precio": "715.000"
+          },
+          {
+              "imagen": "../../assets/celulares/samsung-s20fe.webp",
+              "titulo": "SAMSUNG S20Fe",
+              "descripcion": "Tiene 3 cámaras traseras de 12Mpx/12Mpx/8Mpx. Cámara delantera de 32Mpx. Procesador Snapdragon 865 Octa-Core de 2.84GHz con 6GB de RAM. Batería de 4500mAh con carga inalámbrica.",
+              "precio": "695.000"
+          },
+          {
+              "imagen": "../../assets/celulares/Samsung_S23_Ultra.webp",
+              "titulo": "SAMSUNG S23",
+              "descripcion": "Este modelo lleva una cámara de autoretrato de 12 MP, cámara ultraancha de 12 MP y y 2 cámaras de teleobjetivo de 10 MP con zoom óptico de 10X y 3X. En cuanto al apartado de video, las cámaras del S23 Ultra te permiten grabar en 8K hasta 30 FPS, y en 4K hasta 60 FPS, mientras que el lente delantero graba a 4K 60 FPS.",
+              "precio": "1.500.000"
+          }
+      ]
+    },
+    {
+        "categoria": "smartwatchs",
+        "productos": [
+          {
+            "imagen": "../../assets/smartwatch/amazfit_gts_4.webp",
+          "titulo": "AMAZFIT GTS 4",
+          "descripcion": "El Amazfit GTS 4 tiene una pantalla AMOLED de 1.75”, lo que te va a permitir practicar deporte de una forma más inteligente y con diseño súper liviano. Además, incorpora más de 150 modos deportivos, GPS y llamadas Bluetooth, entre otras muchas cosas.",
+          "precio": "129.000"
+          },
+          {
+            "imagen": "../../assets/smartwatch/apple_watch_9.webp",
+          "titulo": "APPLE WATCH SERIE 9",
+          "descripcion": "Con el chip de Apple diseñado a la medida, el Apple Watch Series 9 es más poderoso, intuitivo y veloz. El CPU de doble núcleo tiene 5,600 millones de transistores, un 60% más que el S8, y el Neural Engine de cuatro núcleos procesa las tareas de aprendizaje automático hasta dos veces más rápido. Y lo mejor es que toda esta potencia hace posibles increíbles innovaciones como el gesto de doble toque.",
+          "precio": "589.000"
+          },
+          {
+            "imagen": "../../assets/smartwatch/apple_watch_ultra.webp",
+          "titulo": "APPLE WATCH ULTRA",
+          "descripcion": "Caja de titanio de calidad aeroespacial que ofrece el equilibrio perfecto entre peso, dureza y resistencia a la corrosión. Sus bordes elevados protegen el cristal delantero plano de zafiro por los cuatro costados. Increíblemente dura para hacer frente a las condiciones meteorológicas más extremas.",
+          "precio": "1.350.000"
+          },
+          {
+            "imagen": "../../assets/smartwatch/galaxy_watch_6.webp",
+          "titulo": "GALAXY WATCH 6",
+          "descripcion": "Algunas de las cualidades más destacadas de este nuevo smartwatch de Samsung son, en primer lugar, y quizá uno de sus aspectos más importantes, su procesador. En este caso, llega con una actualización al nuevo procesador Exynos W930 que aportará una mejora muy significativa respecto a su predecesor, ofreciendo más potencia y eficacia.",
+          "precio": "494.000"
+          },
+          {
+            "imagen": "../../assets/smartwatch/huawei_band_8.webp",
+          "titulo": "HUAWEI BAND 8",
+          "descripcion": "La HUAWEI Band 8 se carga hasta su capacidad máxima en sólo 45 minutos, un 30% más rápido. Puede durar dos días enteros con una carga rápida de cinco minutos. Una vez cargada por completo, la banda puede utilizarse hasta 14 días, o 9 días en situaciones de uso típicas.",
+          "precio": "87.000"
+          },
+          {
+            "imagen": "../../assets/smartwatch/huawei_gt4.webp",
+          "titulo": "HUAWEI GT4",
+          "descripcion": "Sensor de aceleración, Sensor giroscópico, Sensor magnetómetro, Sensor óptico de frecuencia cardiaca, Sensor de barómetro, Sensor de temperatura. Carga inalámbrica. HarmonyOS 2 o posterior, Android 6.0 o posterior, iOS 9.0 o posterior. Nivel de Resistencia al Agua: IP68, 5ATM, Buceo (hasta 30 metros). Soporta GPS, Soporta Bluetooth. Batería de 524 mAh 7 días para un uso típico, 4 días para uso intensivo.",
+          "precio": "439.000"
+          },
+          {
+            "imagen": "../../assets/smartwatch/xiaomi_band_8.webp",
+          "titulo": "XIAOMI BAND 8",
+          "descripcion": "Marco metálico recubierto con textura NCVM, más elegante y con estilo. Estructura del cuerpo de liberación rápida, permite utilizar correas más coloridas fáciles de cambiar. Nuevo conjunto de chips que admite una alta frecuencia de actualización de 60 Hz y un uso fluido.",
+          "precio": "61.000"
+          },
+          {
+            "imagen": "../../assets/smartwatch/Xiaomi_Redmi_2_Lite.webp",
+          "titulo": "XIAOMI REDMI 2 LITE",
+          "descripcion": "El nuevo Redmi Watch 2 Lite dispone de una pantalla TFT cuadrada de 1,55 pulgadas con 320 x 360 píxeles de resolución. En su interior, tiene un sensor óptico de frecuencia cardíaca, acelerómetro, giroscopio, brújula electrónica y un chipset GNSS que admite los cuatro principales sistemas de posicionamiento global (GPS, GLONASS, Galileo, BDS).",
+          "precio": "98.000"
+          }
+        ]
+      },
+      {
+        "categoria": "accesorios",
+        "productos": [
+        
+          {
+                "imagen": "../../assets/accesorios/airpods.webp",
+                "titulo": "AIRPODS PRO",
+                "descripcion": "Controlador de alta excursión diseñado por Apple. Amplificador exclusivo con alto rango dinámico. Cancelación Activa de Ruido. Modo Ambiente adaptable. Ecualización de presión mediante un sistema de ventilación. Audio espacial personalizado con seguimiento dinámico de la cabeza1. Ecualización Adaptativa.",
+                "precio": "300.000"
+          },
+          {
+                "imagen": "../../assets/accesorios/auriculares_xiaomi.webp",
+                "titulo": "XIAOMI REDMI BUDS ESSENTIAL",
+                "descripcion": "Los Buds Essential está equipado con el último chip/ Bluetooth de 5,2. Aproximadamente 5 hrs con una sola carga según nivel de volumen. Hasta 18 horas con el estuche de carga. Se conecta inmediatamente con los auriculares después del primer emparejamiento.",
+                "precio": "32.000"
+          },
+          {
+                "imagen": "../../assets/accesorios/cargador_inalambrico_samsung.webp",
+                "titulo": "CARGADOR INALAMBRICO SAMSUNG",
+                "descripcion": "El Wireless Charger Pad tiene un sistema de enfriamiento incorporado con un ventilador y carga tu smartphone aún más rápido con menos consumo de energía",
+                "precio": "115.000"
+          },
+          {
+                "imagen": "../../assets/accesorios/cargador_samsung.webp",
+                "titulo": "CARGADOR SAMSUNG 25W",
+                "descripcion": "El cargador de pared Super Fast Charging (25 W) proporciona una carga súper rápida de hasta 25 W para dispositivos compatibles. Usá el cargador de pared con un cable de carga oficial Samsung de tipo C a tipo C para obtener resultados óptimos.",
+                "precio": "35.000"
+          },
+          {
+                "imagen": "../../assets/accesorios/funda_iphone_5.webp",
+                "titulo": "FUNDA IPHONE 15 PRO",
+                "descripcion": "El exterior de silicona tiene un acabado suave y sedoso al tacto. Y el interior está forrado con una suave microfibra para una mayor protección. Función anti golpes. El mejor agarre y comodidad en mano. Amplia variedad de colores. Producto de primera calidad en caja sellada. La parte inferior de la funda es cerrada.",
+                "precio": "16.000"
+          },
+          {
+                "imagen": "../../assets/accesorios/funda_samsung.webp",
+                "titulo": "FUNDA SAMSUNG S23 ULTRA",
+                "descripcion": "Funda antigolpe con anillo y protección de cámara. Fabricada con materiales de alta calidad, ofrece una defensa robusta contra caídas y golpes. Su diseño incluye un anillo para un agarre seguro y también puede ser utilizado como soporte para ver imágenes o videos sobre una superficie.",
+                "precio": "62.000"
+          },
+          {
+                "imagen": "../../assets/accesorios/portacelulares.webp",
+                "titulo": "PORTACELULARES PARA AUTO",
+                "descripcion": "Soporte apoya celular regulable, con brazo extensible de múltiples posiciones 360° grados, de alta resistencia. Puede colocar el celular tanto en posicion vertical como horizontal. Sujecion por ventosa, compatible para colocar en vidrio y/o tablero de auto.",
+                "precio": "4.500"
+          },
+          {
+                "imagen": "../../assets/accesorios/vidrio_templado_samsung_a54.webp",
+                "titulo": "VIDRIO TEMPLADO SAMSUNG A54",
+                "descripcion": "El vidrio templado es una pantalla de protección, elaborado especialmente para proteger el táctil de golpes y quebraduras con eficacia en la amortiguación del impacto.",
+                "precio": "2.650"
+          }
+        ]
+      }
+  ]

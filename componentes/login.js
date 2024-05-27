@@ -4,6 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
         loginForm.addEventListener('submit', (event) => {
         event.preventDefault(); 
-        window.location.href = '../private_page/index.html';
+        window.location.href = '../private_page/home.html';
     });
 });

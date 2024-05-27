@@ -4,7 +4,7 @@ const url = 'http://127.0.0.1:5500/'
 
 const navElements = [
 
-    {title: 'Home', link: `${url}../private_page/index.html`},
+    {title: 'Home', link: `${url}../private_page/home.html`},
     {title: 'Celulares', link: `${url}../private_page/celulares.html`},
     {title: 'Smartwatch', link: `${url}../private_page/smartwatch.html`},
     {title: 'Accesorios', link: `${url}../private_page/accesorios.html`}
@@ -16,7 +16,7 @@ export const navbarComponent = `
 <nav class="navbar navbar-expand-lg bg-dark">
     <div class="container-fluid">
         
-        // <a href="../private_page/index.html" class="navbar-brand"><img src="../../assets/LogoEmpresa.svg" alt="Logo" style="width: 65px;"></a>          
+        // <a href="../private_page/home.html" class="navbar-brand"><img src="../../assets/LogoEmpresa.svg" alt="Logo" style="width: 65px;"></a>          
 
         <botton class="navbar-toggler text-white bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
