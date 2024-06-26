@@ -16,6 +16,11 @@ window.addEventListener('load', () => {
         window.location.href = '../public_page/login.html';
     });
 
+    const cartButton = document.getElementById('cartButton');
+    cartButton.addEventListener('click', () => {
+        window.location.href = '../private_page/compras.html';
+    });
+
     const categoria = document.getElementById('inputCategoria').value;
     title.textContent = `Phonemarket - ${categoria}`;
     

@@ -15,6 +15,11 @@ window.addEventListener('load', () => {
         window.location.href = '../public_page/login.html';
     });
 
+    const cartButton = document.getElementById('cartButton');
+    cartButton.addEventListener('click', () => {
+        window.location.href = '../private_page/compras.html';
+    });
+
     fetch('../componentes/data.json').then(res => res.json()).then(data => {
         let cardHTML = '<div class="row row-cols-1 row-cols-md-4 g-4 my-4 p-5">';
         data.forEach(categoria => {

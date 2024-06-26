@@ -35,10 +35,16 @@ export const navbarComponent = `
             </ul>            
             
             <div class="container d-flex justify-content-end mx-auto">
-                <button id="navbarRedirectButton" class="btn btn-danger"><i class="bi bi-box-arrow-left"></i></button>
+                <button id="cartButton" class="btn btn-success me-2">
+                    <i class="bi bi-cart"></i>
+                </button>
+                <button id="navbarRedirectButton" class="btn btn-danger">
+                    <i class="bi bi-box-arrow-left"></i>
+                </button>
             </div>
             
         </div>
     </div>
 </nav>
 `
+
