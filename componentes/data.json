@@ -7,7 +7,14 @@
           "imagen": "../../assets/celulares/motorola_g30.webp",
           "titulo": "MOTOROLA G30",
           "descripcion": "Este modelo tiene 4 cámaras traseras de 64Mpx/8Mpx/2Mpx/2Mpx. Cámara delantera de 13Mpx. Procesador Snapdragon 662 Octa-Core de 2GHz con 4GB de RAM. Batería de 5000mAh.",
-          "precio": "420.000"
+          "precio": "420.000",
+          "informacion":[
+            "Cámaras traseras: 64Mpx/8Mpx/2Mpx/2Mpx",
+            "Cámara delantera: 13Mpx",
+            "Procesador: Snapdragon 662 Octa-Core de 2GHz",
+            "RAM: 4GB",
+            "Batería: 5000mAh"
+          ]
         },
         {
             "id": 2,
