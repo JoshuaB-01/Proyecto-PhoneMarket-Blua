@@ -14,8 +14,9 @@ export function ModalComponent(producto) {
                             <img src="${producto.imagen}" class="img-fluid" alt="Artículo">
                         </div>
                         <h5 class="modal-title" id="productModalLabel">${producto.titulo}</h5>
-                        <p class="mt-3">${producto.informacion}</p>
-                        
+                        <ul>
+                            <p class="mt-3">${producto.informacion}</p>
+                        </ul>
                         <div class="d-flex justify-content-between">
                             <div class="col">
                                 <p class="text-center price bg-warning fw-bold rounded p-1">$${producto.precio}</p>
