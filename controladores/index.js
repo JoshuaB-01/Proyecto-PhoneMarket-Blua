@@ -38,7 +38,6 @@ window.addEventListener('load', () => {
             cardHTML += '</div>';
             cardContainer.innerHTML = cardHTML;
 
-            cargarModal();
         })
         .catch(error => {
             console.log(error);
